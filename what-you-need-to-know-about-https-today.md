@@ -100,7 +100,7 @@ Meta tag that allows only https content
 
 - cascades down thru site's dependencies
 - if it can't use https, it won't show the asset
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+`<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">`
 - works for all browsers but IE and Edge
 
 HSTSpreload.org
