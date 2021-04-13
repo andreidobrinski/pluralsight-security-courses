@@ -10,3 +10,4 @@ Courses include:
 - [Payment Card Security, Processing, and the PCI Standards](https://www.pluralsight.com/courses/payment-card-security-processing-pci-standards)
 - [Play by Play: What You Need to Know About HTTPS Today](https://app.pluralsight.com/library/courses/play-by-play-https-what-you-need-know-about-today)
 - [PCI DSS: The State of Cardholder Data Attacks](https://app.pluralsight.com/library/courses/pci-dss-state-cardholder-data-attack/table-of-contents)
+- [Software and Systems Security for CompTIA CySA+](https://app.pluralsight.com/library/courses/software-systems-security-comptia-cysa-plus/table-of-contents)
